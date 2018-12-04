@@ -1,2 +1,2 @@
-# Ci-ncia-de-Dados---IESB
+# Ciência de Dados
 Repositório para o curso de Ciência de Dados do IESB
